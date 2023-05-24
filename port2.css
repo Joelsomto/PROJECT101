@@ -1,0 +1,141 @@
+.navbar-light{
+    background-attachment: fixed !important;
+    background-color: rgb(222, 209, 209) !important;
+    /* border: none !important; */
+    border-width:0!important;
+}
+.navbar-brand{
+    color: black !important;
+    font-size: 35px !important;
+    font-weight: bold !important;
+    font-style: italic !important;
+}
+.carousel-inner{
+    /* height: 20% !important; */
+    width: 100% !important;
+}
+.container{
+    /* margin-top: 20px !important; */
+    text-align: center !important;
+}
+.jumbotron{
+    box-shadow: 0 0 10px;
+     width: 80% !important; 
+    margin: 60px auto !important; 
+    /* position: absolute; */
+}
+.row{
+    /* display: flex !important; */
+    margin: auto;
+}
+.card{
+    margin: auto  !important;
+    box-shadow: 0 0 30px rgb(160, 160, 160) !important ;
+}
+.col-12{
+    margin-top: -100px;
+}
+.services{
+    background: linear-gradient(rgba(29, 21, 56, 0.4), rgba(29, 21, 56, 0.4)), url('code-6.jpg') no-repeat bottom !important;
+    background-size: cover !important;
+    overflow: hidden !important;
+    height: 140vh !important;
+    width: 100%;
+}
+section>h2{
+    font-size: 35px !important;
+}
+.text-left>p {
+    margin-left: -100px!important;
+}
+.text-left>button{
+    margin-left: -100px!important;
+}
+.col-sm-5>h2{
+    line-height: 80px !important;
+    font-weight: bold;
+    font-size: 55px;
+    margin-top: -50px;
+    width: 135%;
+    margin-left: -100px !important;
+    text-align: left;
+}
+.col-sm-4{
+   padding-left: 40px !important;
+   background: none;
+   border: none;
+   /* width: 900px !important; */
+}
+#card{
+ width: 400px;
+ margin-left: auto;
+}
+.card-img{
+    height: 75%;
+    position: relative;
+}
+.card-body{
+    padding-bottom: 50px;
+}
+.ml-4{
+    /* margin-left: -500px; */
+    text-align: left;
+   
+}
+.col-6{
+    margin-top: -130px;
+    margin-left: -125px;
+}
+.col-5{
+    margin-right: -150px !important;
+}
+.mb-2{
+    margin-right: -300px !important;
+    width: 90%;
+}
+#col-1{
+    margin-left: -125px;
+}
+#col-2{
+    margin-top: -30px;
+    margin-left: -90px;
+}
+#col-3{
+    margin-right: -90px;
+    padding-left: 100px;
+}
+#con-1{
+    margin-left: -125px;
+}
+#con-2{
+    margin-right: -200px;
+    padding-left: 100px;
+    width:  90%;
+}
+#con-3{
+    width:65%;
+}
+#images{
+    margin-top: 200px;
+}
+#evolv{
+    height: 80%;
+    padding-bottom: 60px;
+    text-align: left;
+    overflow: hidden;
+}
+#ev-1{
+    margin-top: 70px;
+}
+#ev-2{
+    padding-left: 50px;
+}
+#ev-2>h4{
+    text-align: left;
+    font-weight: bold;
+}
+#ev-3>button{
+    width: 60%;
+    height: 10%;
+    font-size: 20px;
+}
