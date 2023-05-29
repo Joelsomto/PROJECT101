@@ -39,7 +39,7 @@
     background: linear-gradient(rgba(29, 21, 56, 0.4), rgba(29, 21, 56, 0.4)), url('code-6.jpg') no-repeat bottom !important;
     background-size: cover !important;
     overflow: hidden !important;
-    height: 140vh !important;
+    height: 155vh !important;
     width: 100%;
 }
 section>h2{
@@ -56,14 +56,19 @@ section>h2{
     font-weight: bold;
     font-size: 55px;
     margin-top: -50px;
-    width: 135%;
-    margin-left: -100px !important;
+    width: 100%;
+    margin-left: -70px !important;
     text-align: left;
+    overflow: hidden;
+}
+.col-sm-5>p{
+    width: 100%;
 }
 .col-sm-4{
    padding-left: 40px !important;
    background: none;
    border: none;
+   /* overflow: hidden !important; */
    /* width: 900px !important; */
 }
 #card{
@@ -85,6 +90,7 @@ section>h2{
 .col-6{
     margin-top: -130px;
     margin-left: -125px;
+    overflow: hidden !important;
 }
 .col-5{
     margin-right: -150px !important;
@@ -92,28 +98,35 @@ section>h2{
 .mb-2{
     margin-right: -300px !important;
     width: 90%;
+    
 }
 #col-1{
-    margin-left: -125px;
+    margin-left: -70px;
+    overflow: hidden !important;
 }
 #col-2{
     margin-top: -30px;
     margin-left: -90px;
+    overflow: hidden !important;
 }
 #col-3{
-    margin-right: -90px;
+    margin-right: -40px;
     padding-left: 100px;
+    overflow: hidden !important;
 }
 #con-1{
-    margin-left: -125px;
+    margin-left: -70px;
+    overflow: hidden !important;
 }
 #con-2{
-    margin-right: -200px;
+    margin-right: -150px;
     padding-left: 100px;
-    width:  90%;
+    width:  85%;
+    overflow: hidden !important;
 }
 #con-3{
     width:65%;
+    overflow: hidden !important;
 }
 #images{
     margin-top: 200px;
